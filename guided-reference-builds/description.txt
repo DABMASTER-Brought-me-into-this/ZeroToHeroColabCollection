@@ -1,2 +1,0 @@
-These notebooks are notebooks I made whilst watching Andrej Karpathy during his series. They have some notes in there, and some comments. 
-These notebooks will likely not have any flaw, but they can due to the fact that I write code after watching a full chapter in his video, not while he is writing it. 
